@@ -2,6 +2,7 @@
 
 I'm Rakesh from India.
 A tech enthusiast, a passionate blogger, and a full-time programmer. I do build some really cool piece of shit 😎
+
 Let’s rock it and make the most out of the feature. 🚀
 
 You can check out my twitter at twitter.com/rakeshsalunke_
