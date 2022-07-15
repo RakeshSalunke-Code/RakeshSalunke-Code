@@ -1,6 +1,5 @@
-#### Design and Development
-![Design and Development](https://github.com/RakeshSalunke-Code/RakeshSalunke-Code/blob/main/Screenshot%20(62).png)
-<img src="https://github.com/RakeshSalunke-Code/RakeshSalunke-Code/blob/main/Screenshot%20(62).png" alt="My test image">
+
+<img src="https://github.com/RakeshSalunke-Code/RakeshSalunke-Code/blob/main/Header.jpg" alt="My test image">
 ### Hi there 👋
 
 I'm Rakesh from India.
