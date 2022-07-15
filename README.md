@@ -1,6 +1,7 @@
 
 <img src="https://github.com/RakeshSalunke-Code/RakeshSalunke-Code/blob/main/Header.jpg" alt="My test image">
-### Hi there 👋
+
+Hi there 👋
 
 I'm Rakesh from India.
 A tech enthusiast, a passionate blogger, and a full-time programmer. I do build some really cool piece of shit 😎
